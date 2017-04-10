@@ -1,39 +1,19 @@
 # Introduction
 
-[![Angular Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://angular.io/styleguide)
-[![Build Status](https://travis-ci.org/mgechev/angular-seed.svg?branch=master)](https://travis-ci.org/mgechev/angular-seed)
-[![Build Status](https://ci.appveyor.com/api/projects/status/jg5vg36w0klpa00e/branch/master?svg=true)](https://ci.appveyor.com/project/mgechev/angular2-seed)
-[![Join the chat at https://gitter.im/mgechev/angular2-seed](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mgechev/angular2-seed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Dependency Status](https://david-dm.org/mgechev/angular-seed.svg)](https://david-dm.org/mgechev/angular-seed)
-[![devDependency Status](https://david-dm.org/mgechev/angular-seed/dev-status.svg)](https://david-dm.org/mgechev/angular-seed#info=devDependencies)
+[![Build Status](https://travis-ci.org/bjakubiak/angular-sbadmin2.svg?branch=master)](https://travis-ci.org/bjakubiak/angular-sbadmin2)
+[![Build status](https://ci.appveyor.com/api/projects/status/ck21taodrpfh0dnu?svg=true)](https://ci.appveyor.com/project/bjakubiak/angular-sbadmin2)
+[![Dependency Status](https://david-dm.org/bjakubiak/angular-sbadmin2.svg)](https://david-dm.org/bjakubiak/angular-sbadmin2)
+[![devDependency Status](https://david-dm.org/bjakubiak/angular-sbadmin2/dev-status.svg)](https://david-dm.org/bjakubiak/angular-sbadmin2#info=devDependencies)
 
-Provides fast, reliable and extensible starter for the development of Angular projects.
-
-`angular-seed` provides the following features:
-
-- Allows you to painlessly update the seed tasks of your already existing project.
-- Supports multiple Angular applications with shared codebase in a single instance of the seed.
-- Official Angular i18n support.
-- Ready to go, statically typed build system using gulp for working with TypeScript.
-- Production and development builds.
-- **Ahead-of-Time** compilation support.
-- **Tree-Shaking** production builds with Rollup.
-- Sample unit tests with Jasmine and Karma including code coverage via [istanbul](https://gotwarlost.github.io/istanbul/).
-- End-to-end tests with Protractor.
-- Development server with Livereload.
-- Following the [best practices](https://angular.io/styleguide).
-- Manager of your type definitions using @types.
-- Has autoprefixer and css-lint support.
-- Provides full Docker support for both development and production environment
-- Support for Angular Mobile Toolkit
+sb-admin-2 on angular.
+Made from:
+* https://github.com/mgechev/angular-seed
+* https://github.com/AngularShowcase/ng2-bootstrap-sbadmin
+* https://github.com/BlackrockDigital/startbootstrap-sb-admin-2
 
 # How to start
 
 **Note** that this seed project requires node v4.x.x or higher and npm 2.14.7 but in order to be able to take advantage of the complete functionality we **strongly recommend node >=v6.5.0 and npm >=3.10.3**.
-
-**Here is how to [speed-up the build on Windows](https://github.com/mgechev/angular-seed/wiki/Speed-up-the-build-on-Windows)**.
-
-In order to start the seed use:
 
 
 ```bash
